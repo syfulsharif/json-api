@@ -59,5 +59,29 @@
     "nationality" : "Japanese",
     "status" : "Currently in space",
     "missionSalary" : 700000
+    },
+
+    {"craft": "ISS",
+        "name": "Michael Barratt",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michael_R._Barratt_2010.jpg/256px-Michael_R._Barratt_2010.jpg",
+        "nationality" : "American",
+        "status" : "Currently on Earth",
+        "missionSalary" : 700000
+    },
+
+    {
+        "name": "Daniel T. Barry",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Daniel_Thomas_Barry.jpg/256px-Daniel_Thomas_Barry.jpg",
+        "nationality" : "American",
+        "status" : "Currently on Earth",
+        "missionSalary" : 700000
+    },
+
+    {
+        "name": "Eric Boe",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Eric_Boe_in_2018.jpg/240px-Eric_Boe_in_2018.jpg",
+        "nationality" : "American",
+        "status" : "Currently on Earth",
+        "missionSalary" : 700000
     }
 ]
