@@ -1,0 +1,63 @@
+ [
+    {
+    "craft": "ISS",
+    "name": "Mark Vande Hei",
+    "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Mark_Vande_Hei%2C_official_portrait.jpg/256px-Mark_Vande_Hei%2C_official_portrait.jpg",
+    "nationality" : "American",
+    "status" : "Currently in space",
+    "missionSalary" : 500000
+    },
+
+    {
+    "craft": "ISS",
+    "name": "Oleg Novitskiy",
+    "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Oleg_Novitskiy_2016.jpg/213px-Oleg_Novitskiy_2016.jpg",
+    "nationality" : "Russian",
+    "status" : "Currently in space",
+    "missionSalary" : 450000
+    },
+
+    {
+    "craft": "ISS",
+    "name": "Pyotr Dubrov",
+    "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Expedition_64_Crew_Qualification_Exams_%28NHQ202009220003%29.jpg/320px-Expedition_64_Crew_Qualification_Exams_%28NHQ202009220003%29.jpg",
+    "nationality" : "Russian",
+    "status" : "Currently in space",
+    "missionSalary" : 600000
+    },
+
+    {
+    "craft": "ISS",
+    "name": "Thomas Pesquet",
+    "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Thomas_Pesquet%2C_official_portrait_in_EMU_%282020%29.jpg/240px-Thomas_Pesquet%2C_official_portrait_in_EMU_%282020%29.jpg",
+    "nationality" : "French",
+    "status" : "Currently in space",
+    "missionSalary" : 550000
+    },
+
+    {
+    "craft": "ISS",
+    "name": "Megan McArthur",
+    "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Meganmcarthurv2.jpg/256px-Meganmcarthurv2.jpg",
+    "nationality" : "American",
+    "status" : "Currently in space",
+    "missionSalary" : 480000
+    },
+
+    {
+    "craft": "ISS",
+    "name": "Shane Kimbrough",
+    "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Shanekimbroughv2.jpg/256px-Shanekimbroughv2.jpg",
+    "nationality" : "American",
+    "status" : "Currently in space",
+    "missionSalary" : 680000
+    },
+
+    {"craft": "ISS",
+    "name": "Akihiko Hoshide",
+    "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Akihiko_Hoshide_2012.jpg/240px-Akihiko_Hoshide_2012.jpg",
+    "nationality" : "Japanese",
+    "status" : "Currently in space",
+    "missionSalary" : 700000
+    }
+]
